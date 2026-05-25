@@ -53,8 +53,6 @@ The dashboard helps stakeholders understand key metrics like revenue, order patt
 * Removed duplicates and null values
 * Standardized column formats
 * Created calculated columns & measures using DAX
-* Built relationships (if multiple tables used)
-
 ---
 
 

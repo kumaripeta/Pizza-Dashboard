@@ -1,8 +1,8 @@
-# 🍕 Pizza Sales Report Dashboard (Power BI)
+# 🍕 Pizza Sales Report Dashboard (Power BI,Excel,Tableau,Python,SQL)
 
 ## 📌 Project Overview
 
-This project is an interactive **Pizza Sales Dashboard** built using **Power BI** to analyze sales performance, customer ordering behavior, and business trends over a one-year period (Jan 2015 – Dec 2015).
+This project is an interactive **Pizza Sales Dashboard** built using **Power BI** to analyze sales performance, customer ordering behavior, and business trends over a one-year period.
 
 The dashboard helps stakeholders understand key metrics like revenue, order patterns, and product performance to support data-driven decision-making.
 
@@ -41,7 +41,7 @@ The dashboard helps stakeholders understand key metrics like revenue, order patt
 
 ## 🧰 Tools & Technologies Used
 
-* **Power BI** – Data visualization & dashboard creation
+* **Power BI,Tableau,Python,SQL** – Data visualization & dashboard creation
 * **Excel / CSV Dataset** – Data source
 * **DAX (Data Analysis Expressions)** – Calculations & measures
 * **Data Cleaning** – Performed before visualization

@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Report Dashboard (Power BI,Excel,Tableau,Python,SQL)
+# 🍕 Pizza Sales Report Dashboard (Power BI,Excel,SQL)
 
 ## 📌 Project Overview
 
@@ -41,7 +41,7 @@ The dashboard helps stakeholders understand key metrics like revenue, order patt
 
 ## 🧰 Tools & Technologies Used
 
-* **Power BI,Tableau,Python,SQL** – Data visualization & dashboard creation
+* **Power BI,Excel,SQL** – Data visualization & dashboard creation
 * **Excel / CSV Dataset** – Data source
 * **DAX (Data Analysis Expressions)** – Calculations & measures
 * **Data Cleaning** – Performed before visualization
